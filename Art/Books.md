@@ -1,4 +1,4 @@
 # 2017
 
 ## Crazy Art Book
-Author: Pablo Picasso
+Author: Leonardo Ellói
